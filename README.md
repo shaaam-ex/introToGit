@@ -1,1 +1,1 @@
-# A simplt Introduction to git
+# A simple Introduction to git
