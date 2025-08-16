@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="https://schon-magazine.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/06/16105144/Sunny1-scaled.jpg" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
