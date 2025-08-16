@@ -245,6 +245,9 @@ git <command> --help         # Alternative help syntax
 git help                     # General help
 ```
 
+## Squash
+Simply, combines all the relevant selected commits into a single commit
+
 ---
 
 Remember, Git might seem overwhelming at first, but mastering these basic commands will make you much more productive as a developer. Start with the basics and gradually incorporate more advanced features as you become comfortable!
